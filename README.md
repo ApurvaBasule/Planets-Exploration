@@ -1,2 +1,2 @@
-# planets-dashboard
+# it is a MERN dashboard
  
